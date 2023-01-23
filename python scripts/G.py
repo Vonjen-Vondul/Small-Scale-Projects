@@ -1,4 +1,4 @@
-'''import random as rand
+import random as rand
 x = rand.randrange(1,9)
 
 while True:
@@ -8,5 +8,5 @@ while True:
                 print('well guessed :)')
                 break
         else:
-                print('incorrect guess')'''
+                print('incorrect guess')
         
