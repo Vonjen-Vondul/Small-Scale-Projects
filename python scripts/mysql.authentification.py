@@ -12,7 +12,7 @@ the_cursor = accounts_database.cursor()
 
 #the_cursor.execute('CREATE TABLE users(id INT AUTO_INCREMENT PRIMARY KEY, user_name VARCHAR(20), password VARCHAR (8))')
 
-'''for x in range(1):
+for x in range(1):
     username =input('create new username: ')
     pass_word =input('create new password: ')
     sql='INSERT INTO users (user_name, password) VALUES (%s,%s)'
@@ -24,7 +24,7 @@ the_cursor = accounts_database.cursor()
         print(the_cursor.rowcount,'user saved successfully')
     
     except mysql.connector.Error as error:
-        print('format error')'''
+        print('format error')
 
 
 
