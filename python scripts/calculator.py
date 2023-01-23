@@ -1,4 +1,4 @@
-'''calculator=input('input calculation ')'''
+calculator=input('input calculation ')
 def calculator(x,y,z):
     if y == '+':
         print(x+z)
