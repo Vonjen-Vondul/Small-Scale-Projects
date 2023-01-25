@@ -1,6 +1,6 @@
 # Small-Scale-Projects
-this repository contains some of my small scale projects
-these scripts range from a simple calculator to simple creation and query as well as the manipulation of tables
+This repository contains some of my small scale projects
+these scripts are explained below:
 
 Ship Categorization:
 This script is to help categorize the different sizes of boat in a Marina. The boats are categorized according to 3 acceptable seize classes 50, 55 and 128. And presenting it in a dictionary.
@@ -37,3 +37,12 @@ This script reverses a given string
 
 Vowel checker:
 This script is able to identify if an imputed letter is a vowel or a consonant
+
+BMI checker:
+This script is a simple body mass index checker 
+
+Even/odd number counter:
+This scripts if a number is odd or even
+
+Menu calculator:
+This Script helps calculate the total amount of items bought from a restaurant.
