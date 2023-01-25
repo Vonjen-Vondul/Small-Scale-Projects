@@ -42,7 +42,7 @@ BMI checker:
 This script is a simple body mass index checker 
 
 Even/odd number counter:
-This scripts if a number is odd or even
+This scripts detects if a number is odd or even
 
 Menu calculator:
 This Script helps calculate the total amount of items bought from a restaurant.
