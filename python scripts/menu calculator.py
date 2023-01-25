@@ -14,7 +14,7 @@ main_menu={'Rice and stew':1500,
 
 def online_order():
     order=input('from menu select your food: '.strip())
-    order_number=int(input('select of item: '.strip()))
+    order_number=int(input('select number of item: '.strip()))
     p= int(main_menu.get(order)*order_number)
     print(p)
 
