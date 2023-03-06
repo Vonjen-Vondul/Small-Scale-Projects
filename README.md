@@ -46,3 +46,7 @@ This scripts detects if a number is odd or even
 
 Menu calculator:
 This Script helps calculate the total amount of items bought from a restaurant.
+
+
+Automatic file sorter in file explorer:
+this script automatically sorts pdf,csv,xlsx and docx files into their respective folders
